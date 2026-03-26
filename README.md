@@ -23,6 +23,8 @@ I build products at the intersection of web development, blockchain, and AI tool
 
 ### What I'm Building
 
+- **[toby](https://github.com/0xtiby/toby)** -Turn markdown specs into working code with AI-powered plan and build loops.
+- **[spawner](https://github.com/0xtiby/spawner)** -A unified TypeScript interface to spawn and interact with AI coding CLIs.
 - **[eniem](https://eniem.dev)** -Next.js boilerplate with auth, payments, and emails. Ship your SaaS faster.
 - **[COS](https://github.com/0xtiby/cos)** -Claude Operating System: a shareable workspace config system for Claude Code.
 - **[Boring Snap](https://apps.apple.com/fr/app/boring-snap/id6753315850?l=en-GB)** -iOS camera app to use your NFT PFP as a photo overlay.

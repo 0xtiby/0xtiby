@@ -28,6 +28,7 @@ I build products at the intersection of web development, blockchain, and AI tool
 - **[spawner](https://github.com/0xtiby/spawner)** -A unified TypeScript interface to spawn and interact with AI coding CLIs.
 - **[eniem](https://eniem.dev)** -Next.js boilerplate with auth, payments, and emails. Ship your SaaS faster.
 - **[COS](https://github.com/0xtiby/cos)** -Claude Operating System: a shareable workspace config system for Claude Code.
+- **[engineering-skills](https://github.com/0xtiby/engineering-skills)** -Personal engineering agent skills, built on top of mattpocock/skills.
 - **[Boring Snap](https://apps.apple.com/fr/app/boring-snap/id6753315850?l=en-GB)** -iOS camera app to use your NFT PFP as a photo overlay.
 - **[parse-server-nextjs](https://github.com/0xtiby/parse-server-nextjs)** -Parse Server authentication for Next.js.
 - **[parse-server-siwe-auth-adapter](https://github.com/0xtiby/parse-server-siwe-auth-adapter)** -Sign-In with Ethereum auth adapter.

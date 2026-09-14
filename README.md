@@ -15,20 +15,23 @@ I build products at the intersection of web development, blockchain, and AI tool
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=000)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=000)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
 ![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![Pi](https://img.shields.io/badge/Pi_Coding_Agent-000000?style=flat-square&logoColor=white)
 
 ### What I'm Building
 
+- **[TStack](https://tstack.dev)** -An engineering harness for agentic software delivery: skills, workflows, and docs that turn AI coding agents into a disciplined delivery loop, not vibe-coded chaos. The main thing I'm working on.
+- **[SpaceZero](https://github.com/bity-labs/spacezero)** (archived) -A local-first desktop workspace for directing Pi-powered coding agents. Development stopped; code kept as reference.
+- **[eniem](https://github.com/eniem-dev)** -Next.js boilerplate with auth, payments, and emails. Ship your SaaS faster.
 - **[looper](https://github.com/0xtiby/looper)** -A standalone engine that loops an AI coding CLI against a prompt until it signals it's done.
 - **[toby](https://github.com/0xtiby/toby)** -Turn markdown specs into working code with AI-powered plan and build loops.
 - **[spawner](https://github.com/0xtiby/spawner)** -A unified TypeScript interface to spawn and interact with AI coding CLIs.
-- **[eniem](https://eniem.dev)** -Next.js boilerplate with auth, payments, and emails. Ship your SaaS faster.
 - **[COS](https://github.com/0xtiby/cos)** -Claude Operating System: a shareable workspace config system for Claude Code.
-- **[engineering-skills](https://github.com/0xtiby/engineering-skills)** -Personal engineering agent skills, built on top of mattpocock/skills.
+- **[engineering-skills](https://github.com/0xtiby/engineering-skills)** -Personal engineering agent skills, built on top of mattpocock/skills. **Outdated — now using TStack skills.**
 - **[Boring Snap](https://apps.apple.com/fr/app/boring-snap/id6753315850?l=en-GB)** -iOS camera app to use your NFT PFP as a photo overlay.
 - **[parse-server-nextjs](https://github.com/0xtiby/parse-server-nextjs)** -Parse Server authentication for Next.js.
 - **[parse-server-siwe-auth-adapter](https://github.com/0xtiby/parse-server-siwe-auth-adapter)** -Sign-In with Ethereum auth adapter.
@@ -42,14 +45,14 @@ I build products at the intersection of web development, blockchain, and AI tool
 I write about DevOps, Solidity, monorepos, and AI coding workflows on [tibyverse.xyz](https://tibyverse.xyz).
 
 Recent posts:
-- [Coolify + Cloudflare Tunnel: Traefik Routing and Preview Deployments](https://tibyverse.xyz/articles/coolify-cloudflare-tunnel-traefik-preview-deployments)
-- [Moving eniem.dev to a new monorepo](https://tibyverse.xyz/articles/moving-eniem-to-a-monorepo)
-- [Finding the Right AI Coding Workflow](https://tibyverse.xyz/articles/finding-the-right-ai-workflow)
-- [Introduction to Solidity: Inheritance](https://tibyverse.xyz/articles/introduction-to-solidity-inheritance)
+- [Why I'm stopping Space Zero](https://tibyverse.xyz/articles/why-im-stopping-space-zero)
+- [eniem is now free and open source](https://tibyverse.xyz/articles/eniem-is-now-free-and-open-source)
+- [AI Agents Can Build Features, But They Still Need a UI Contract](https://tibyverse.xyz/articles/ai-agents-can-build-features-but-they-still-need-a-ui-contract)
+- [From private repo to public downloads: Space Zero's desktop release pipeline](https://tibyverse.xyz/articles/building-space-zero-desktop-release-pipeline)
 
 ### Current Interests
 
-- Agentic coding workflows with Claude Code
+- Agentic coding workflows
 - Self-hosted infrastructure (Coolify, Cloudflare Tunnels)
 - Smart contract development
 - Shipping open-source tools for developers
